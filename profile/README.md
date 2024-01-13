@@ -1,6 +1,6 @@
 
 <div align-item="flex-start">
-<img src="https://github.com/KoreaInformationTechnology/.github/assets/110442250/8d81d5e4-6cc4-4f2d-b98a-4cbd7d9200f3" width="100%" height="30%">
+<img src="https://github.com/KoreaInformationTechnology/.github/assets/110442250/b33607d9-8f08-4ce0-8118-4500095e714d" width="100%" height="30%">
 </div>
 
 
